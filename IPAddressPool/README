@@ -1,0 +1,6 @@
+ip池代码
+优势：通过购买第三方代理api（短效），可以实现多个爬虫项目共用，提高效率，降低成本，保证ip池的代理实时可用，保证爬虫效率的最大化利用
+数据库：mongodb（ip存放的位置）、redis（可不用）
+语言：python
+推荐代理：1.
+         2.亿牛云：http://ip.16yun.cn:817/reg_accounts/register/?sale_user=Fyf_18398513693&agent_user=zhangchen123123
